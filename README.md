@@ -31,6 +31,10 @@ cBackup is intended for usage in Linux environment. It consists of two parts: we
 * OpenSSH
 * libCurl
 
+* https://imgbb.com/5cQSdy2
+* https://imgbb.com/5jQPYwF
+* https://imgbb.com/bPVdx8t
+
 # License
 
 Published under the GNU Affero General Public License (AGPLv3)<br>
